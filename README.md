@@ -46,7 +46,7 @@ Examples of inward codes:
 7HF
 8JQ
 
-Regex command: 'r"^[A-Z]{1,2}[0-9R][0-9A-Z]? [0-9][ABD-HJLNP-UW-Z]{2}$"'
+Regex command: `r"^[A-Z]{1,2}[0-9R][0-9A-Z]? [0-9][ABD-HJLNP-UW-Z]{2}$"`
 
 ## Getting Started
 
